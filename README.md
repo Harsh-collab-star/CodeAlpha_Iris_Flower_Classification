@@ -1,6 +1,6 @@
 # CodeAlpha_Iris_Flower_Classification
 
-# Iris Flower Classification - CodeAlpha
+# Iris Flower Classification 
 
 ## Overview
 This project uses machine learning to classify Iris flower species based on physical measurements.
